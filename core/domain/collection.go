@@ -1,6 +1,6 @@
 package domain
 
-import "example.com/m/domain/lock"
+import "example.com/m/core/domain/lock"
 
 type Collection struct {
 	id       string
